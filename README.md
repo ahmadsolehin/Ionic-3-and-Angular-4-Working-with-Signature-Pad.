@@ -1,6 +1,5 @@
 # Ionic 3 and Angular 4 using Signature Pad
-Using the signature pad with Ionic 3 , you can store the user signature. This package is powered by www.9lessons.info blog feed content and developed using Ionic v2 and Angular 2.   
-
+Using the signature pad with Ionic 3 , you can store the user signature. 
 <table><tr>
 <td width="25%">
 Open App
@@ -26,7 +25,7 @@ Execute following commands to run this application.
 ```
 $ npm install -g cordova ionic
 
-$ git clone https://github.com/srinivastamada/ionic3-angular4-signaturepad.git
+$ git clone https://github.com/ahmadsolehin/Ionic-3-and-Angular-4-Working-with-Signature-Pad..git
 
 $ cd ionic3-angular4-signaturepad
 
