@@ -50,5 +50,3 @@ $ cordova add platform android
 $ ionic build android
 
 ```
-
-More Info Tutorial: <a href="http://www.9lessons.info/2017/01/ionic-2-mobile-app-using-angular-2-and.html">Ionic 2 Mobile App using Angular 2 and TypeScript Tutorial</a>
